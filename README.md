@@ -5,7 +5,7 @@ XRDの実験データとその構造のcifファイルから結晶の長さ、�
 
 ### 方法
 インプットのファイルを用意して同じファイル内で`python XRDSimulation.py [trials]`を実行  
-[trials]は計算回数を整数型で入力
+`[trials]`は計算回数を整数型で入力
 
 ### インプット
 - XRDの実験データ(filenameをtarget.csvにする)
